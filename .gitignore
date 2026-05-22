@@ -1,0 +1,11 @@
+# 个人数据绝不上传 / never commit personal data
+*_sim/
+events.md
+data/
+exes/
+selves/
+*.jsonl
+emojis/
+voices/
+images/
+videos/
